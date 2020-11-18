@@ -3,7 +3,7 @@ dependencies:
   - pip:
     - pypiwin32
     - ipykernel
-    - shutil
+    - pytest-shutil
     - pandas
     - scikit-fpdf
     - invoice2data
