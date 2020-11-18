@@ -5,5 +5,5 @@ dependencies:
     - ipykernel
     - pytest-shutil
     - pandas
-    - scikit-fpdf
+    - fpdf
     - invoice2data
