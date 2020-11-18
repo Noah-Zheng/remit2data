@@ -1,0 +1,9 @@
+dependencies:
+  - python=3
+  - pip:
+    - win32com
+    - ipykernel
+    - shutil
+    - pandas
+    - scikit-fpdf
+    - invoice2data
