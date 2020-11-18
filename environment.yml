@@ -1,7 +1,7 @@
 dependencies:
   - python=3
   - pip:
-    - win32com
+    - pywin32
     - ipykernel
     - shutil
     - pandas
